@@ -1,6 +1,9 @@
 # dice-game
 A dice game (aka. Pig Game) using JavaScript
 
+Languages used:
+- JavaScript, HTML, CSS
+
 
 GAME RULES:
 
